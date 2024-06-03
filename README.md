@@ -19,9 +19,6 @@
 -> Evaluate the model: Finally, the video discusses how to evaluate the performance of the model. Mean Absolute Error is one of the metrics used to measure the accuracy of the model.<br/><br/>
 
 **Images**
-![Screenshot (11)](https://github.com/riya-malviya/weather-ml/assets/171536835/557841c9-24b2-428a-a3de-873e28d5f41b)
 
-![Screenshot (12)](https://github.com/riya-malviya/weather-ml/assets/171536835/5273da04-0808-4780-8199-5ec1e5656f1a)
-
-
-
+<img src="https://github.com/riya-malviya/weather-ml/assets/171536835/557841c9-24b2-428a-a3de-873e28d5f41b" width="350" height="324"><br/><br/>
+<img src="https://github.com/riya-malviya/weather-ml/assets/171536835/5273da04-0808-4780-8199-5ec1e5656f1a" width="324" height="324">
